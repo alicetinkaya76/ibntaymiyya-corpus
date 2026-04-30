@@ -1,0 +1,218 @@
+{
+  "annotator": "claude_4_7_baseline",
+  "session_id": "20260430T180826",
+  "annotations": [
+    {
+      "source_unit_id": "MF-V07-S09-P021",
+      "target_unit_id": "IMN-S00-P132",
+      "label": "EDITED",
+      "notes": "Albani giriş cümlesini ('قلت: لفظ المجمل والمطلق...') atmış, 'ليست مما لا يفهم المراد به...' sonrası birebir aynı. Sonunda Albani daha geniş devam içeriği ekliyor.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P005",
+      "target_unit_id": "IMN-S00-P105",
+      "label": "EDITED",
+      "notes": "Kaynak 'فصل: ومما يسأل عنه...' fasıl başlığıyla açılıyor; hedef 'والتحقيق أن النبي...' sonrasını birebir alıyor. Albani başlığı + ön argümanı çıkarmış.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P007",
+      "target_unit_id": "IMN-S00-P107",
+      "label": "EDITED",
+      "notes": "Hedef daha geniş bağlam içeriyor (754 vs 624 kelime); Albani önceki passage'la birleştirmiş gibi. Kaynaktaki cümle ('لأنه لا يستحق هذا الاسم...') hedefin ortasında birebir bulunabiliyor.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P025",
+      "target_unit_id": "IMN-S00-P136",
+      "label": "EDITED",
+      "notes": "Albani ilk cümleleri ('وسائر المرجئة...') atmış, 'والشافعي مع الصحابة...' sonrasını birebir alıyor. Sondaki içerik de Albani'de daha geniş.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P008",
+      "target_unit_id": "IMN-S00-P095",
+      "label": "EDITED",
+      "notes": "Kaynak hadisin yarısından kesilmiş ('قالها لذهب عنه...'); Albani hadisin tam başlangıcını ('وفي الصحيحين عن النبي...') ekleyip devamını birebir alıyor.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P004",
+      "target_unit_id": "IMN-S00-P069",
+      "label": "EDITED",
+      "notes": "Albani Şâfiî'nin kaynağını (Atâ'dan rivayet) ek bir önsözle eklemiş; sonrasında 'وقال الشافعي رضي الله عنه في كتاب الأم...' kısmı birebir aynı.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P007",
+      "target_unit_id": "IMN-S00-P152",
+      "label": "EDITED",
+      "notes": "Kaynaktaki başlangıç bölümü (Halal nakli, ölüm hadisleri) hedefte yok; Albani kaynaktaki Ahmad-yaşlı diyaloğundan ('قال: ودخل عليه شيخ...') başlıyor.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P011",
+      "target_unit_id": "IMN-S00-P012",
+      "label": "EXACT",
+      "notes": "Birebir aynı pasaj. Albani sadece editöryel referansları ([آل عمران: 103]) ve noktalama eklemiş — metin akışı hiç değişmemiş.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P008",
+      "target_unit_id": "IMN-S00-P118",
+      "label": "OVERLAP",
+      "notes": "Kaynak münafık/mü'min/küfür tanımları; hedef Hz. Peygamber'in şefaat duası ve cennet/cehennem dereceleri. Aynı geniş konu (iman-amel-küfür) ama tamamen farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P026",
+      "target_unit_id": "IMN-S00-P137",
+      "label": "EXACT",
+      "notes": "Birebir aynı pasaj. 'وهكذا كثير من الفلاسفة...' başlangıcından itibaren tüm metin aynı; Albani sadece [التوحيد] gibi bracket'lar eklemiş.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P008",
+      "target_unit_id": "IMN-S00-P009",
+      "label": "OVERLAP",
+      "notes": "Kaynak kalp katılığı + namaz; hedef Ammâr'ın namaz hadisi + haşyet. Ortak konu (namaz, iman, kalp) ama farklı pasajlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P013",
+      "target_unit_id": "IMN-S00-P079",
+      "label": "OVERLAP",
+      "notes": "Kaynak 'sekizinci yön: cahil mü'min'in tasdiki'; hedef 'Allah'ın kalplerine iman girmediği topluluk' tartışması. Aynı tema (iman seviyeleri) ama farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P014",
+      "target_unit_id": "IMN-S00-P124",
+      "label": "OVERLAP",
+      "notes": "İkisi de İslâm-İmân ayrımı tartışıyor; kaynak Ahmad'ın hadis yorumu, hedef Beyhakî/Eş'arî nakli. Farklı pasajlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P009",
+      "target_unit_id": "IMN-S00-P119",
+      "label": "OVERLAP",
+      "notes": "Kaynak küfür/nesep hadisleri; hedef fısk-iman ilişkisi. Yakın konu ama farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P001",
+      "target_unit_id": "IMN-S00-P111",
+      "label": "OVERLAP",
+      "notes": "Kaynak Ebû Tâlib el-Mekkî'nin imanın 7 erkânı; hedef İslâm-İmân tanım tartışması (Ebâdiyye/Mürcie). Farklı pasajlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P003",
+      "target_unit_id": "IMN-S00-P003",
+      "label": "OVERLAP",
+      "notes": "Kaynak 'kemâl-i vâcip vs müstahab' tartışması; hedef Yahudi/Hristiyan/Sâbiî mü'minler. Aynı geniş konu (iman tanımı) ama farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P003",
+      "target_unit_id": "IMN-S00-P090",
+      "label": "OVERLAP",
+      "notes": "Kaynak hadisten İslâm-İmân-Hicret-Cihâd hiyerarşisi; hedef ihlasla amelin sevabı. Bağlantılı ama farklı pasajlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P004",
+      "target_unit_id": "IMN-S00-P091",
+      "label": "OVERLAP",
+      "notes": "Kaynak 'kefarû ba'de imânihim' yorumu; hedef 'kefarû ba'de İslâmihim' yorumu (Tevbe 73-74). Yan yana ayetler, ardışık argümanlar — ama aynı pasaj değil.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P015",
+      "target_unit_id": "IMN-S00-P125",
+      "label": "OVERLAP",
+      "notes": "Kaynak Zühri'nin Sa'd hadisi yorumu, Ahmad'ın 'tevil' anlayışı; hedef Ahmad'a sorulan iman soruları (Salih b. Ahmad). Ortak kaynak (Ahmad) farklı pasajlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P006",
+      "target_unit_id": "IMN-S00-P007",
+      "label": "OVERLAP",
+      "notes": "Kaynak Yahudilerin Hz. Peygamber'i tanıması + 'akıl' lafzı; hedef korku-fıtrat tartışması. Ortak tema (ilim-amel) ama farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P023",
+      "target_unit_id": "IMN-S00-P025",
+      "label": "EDITED",
+      "notes": "ÖNEMLİ — düşük skora rağmen GERÇEK paralel. Hedefin ilk cümlesi ('فتلك الشفاعة هي لأهل الإخلاص...') kaynağın yarıda kesilen sonuyla birebir aynı; argüman akışı kesintisiz devam ediyor. Albani kaynağın passage sınırını yeniden çizmiş, kaynak (152 kelime) çok kısa kaldığı için skor düşmüş. Threshold kalibrasyonu için değerli false-negative örneği.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P022",
+      "target_unit_id": "IMN-S00-P024",
+      "label": "OVERLAP",
+      "notes": "Kaynak müşrik Arapların yaratıcılığı kabul etmesi (yorum); hedef aynı konuda ayet listesi. Yüksek Kur'ân yoğunluğu (kaynak %58, hedef %53) — ortak ayet değil ortak metin gerek.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P017",
+      "target_unit_id": "IMN-S00-P043",
+      "label": "OVERLAP",
+      "notes": "Kaynak 'tasdik' lafzının Arapça dilsel kullanımı; hedef Kur'ân'ın Arapça oluşu. Yakın akrabalar (Arapça lafzı) ama farklı tezler.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P002",
+      "target_unit_id": "IMN-S00-P088",
+      "label": "OVERLAP",
+      "notes": "Kaynak Halid b. Ma'dân'dan İslâm hadisi; hedef Ubeyd b. Umeyr'den İslâm-İmân hadisi. İki ayrı hadis, aynı tematik alan.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P021",
+      "target_unit_id": "IMN-S00-P022",
+      "label": "OVERLAP",
+      "notes": "Kaynak taklid/şirk-i asgar tartışması; hedef ahbâr-rahbân rabb edinme (Tevbe 31). İkisi de tevhid konusunda ama farklı argümanlar.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P020",
+      "target_unit_id": "IMN-S00-P085",
+      "label": "OVERLAP",
+      "notes": "İkisi de Ahmad'dan nakil (iman/İslâm farkı); kaynak şehâdeteyn-namaz-zekât küfür rivayetleri, hedef 'أعتقها فإنها مؤمنة' hadisi ve Hammâd b. Zeyd ayrımı. Yakın ama farklı pasajlar — algoritma kelime ortaklığını (Ahmad, iman, İslâm) yakalamış.",
+      "annotator": "claude_4_7_baseline",
+      "annotated_at": "2026-04-30T18:08:26Z"
+    }
+  ],
+  "review_set_path": "docs/cross_corpus/h2_pairs_for_review.md",
+  "completed": true,
+  "created_at": "2026-04-30T18:08:26Z",
+  "updated_at": "2026-04-30T18:08:26Z"
+}
