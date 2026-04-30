@@ -1,0 +1,2257 @@
+{
+  "metadata": {
+    "source_file": "data/canonical/iman_v0.1.json",
+    "target_file": "data/canonical/iman_standalone_v0.1.json",
+    "method": "tfidf_word",
+    "threshold": 0.3,
+    "topk": 3,
+    "quran_aware": true,
+    "min_words": 30,
+    "n_source": 162,
+    "n_target": 160,
+    "n_pairs": 224,
+    "extracted_at": "2026-04-30T17:02:29Z"
+  },
+  "pairs": [
+    {
+      "source_unit_id": "MF-V07-S08-P005",
+      "target_unit_id": "IMN-S00-P105",
+      "similarity": 0.9669,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0579,
+      "quran_density_target": 0.0595,
+      "adjusted_similarity": 0.9093,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P025",
+      "target_unit_id": "IMN-S00-P136",
+      "similarity": 0.9623,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.9623,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P008",
+      "target_unit_id": "IMN-S00-P095",
+      "similarity": 0.962,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0349,
+      "quran_density_target": 0.0046,
+      "adjusted_similarity": 0.9284,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P005",
+      "target_unit_id": "IMN-S00-P115",
+      "similarity": 0.9555,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1402,
+      "quran_density_target": 0.0639,
+      "adjusted_similarity": 0.8216,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P029",
+      "target_unit_id": "IMN-S00-P140",
+      "similarity": 0.9502,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0205,
+      "quran_density_target": 0.0055,
+      "adjusted_similarity": 0.9307,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P008",
+      "target_unit_id": "IMN-S00-P108",
+      "similarity": 0.9497,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0695,
+      "quran_density_target": 0.0235,
+      "adjusted_similarity": 0.8837,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P021",
+      "target_unit_id": "IMN-S00-P132",
+      "similarity": 0.9461,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0186,
+      "quran_density_target": 0.0098,
+      "adjusted_similarity": 0.9285,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P022",
+      "target_unit_id": "IMN-S00-P133",
+      "similarity": 0.9373,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0489,
+      "quran_density_target": 0.0433,
+      "adjusted_similarity": 0.8915,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P024",
+      "target_unit_id": "IMN-S00-P135",
+      "similarity": 0.9364,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1563,
+      "quran_density_target": 0.0591,
+      "adjusted_similarity": 0.7901,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P009",
+      "target_unit_id": "IMN-S00-P154",
+      "similarity": 0.9354,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0682,
+      "quran_density_target": 0.035,
+      "adjusted_similarity": 0.8716,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P001",
+      "target_unit_id": "IMN-S00-P049",
+      "similarity": 0.9338,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0631,
+      "quran_density_target": 0.0753,
+      "adjusted_similarity": 0.8635,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P003",
+      "target_unit_id": "IMN-S00-P068",
+      "similarity": 0.9321,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1602,
+      "quran_density_target": 0.0382,
+      "adjusted_similarity": 0.7828,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P007",
+      "target_unit_id": "IMN-S00-P107",
+      "similarity": 0.9297,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0151,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.9156,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P011",
+      "target_unit_id": "IMN-S00-P012",
+      "similarity": 0.9294,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2143,
+      "quran_density_target": 0.1414,
+      "adjusted_similarity": 0.7302,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P004",
+      "target_unit_id": "IMN-S00-P030",
+      "similarity": 0.9205,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0901,
+      "quran_density_target": 0.0424,
+      "adjusted_similarity": 0.8376,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P003",
+      "target_unit_id": "IMN-S00-P029",
+      "similarity": 0.9202,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0486,
+      "quran_density_target": 0.0546,
+      "adjusted_similarity": 0.87,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S10-P002",
+      "target_unit_id": "IMN-S00-P143",
+      "similarity": 0.9124,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0061,
+      "quran_density_target": 0.0063,
+      "adjusted_similarity": 0.9066,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P008",
+      "target_unit_id": "IMN-S00-P153",
+      "similarity": 0.9063,
+      "method": "tfidf_word",
+      "quran_density_source": 0.19,
+      "quran_density_target": 0.0293,
+      "adjusted_similarity": 0.7341,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S10-P001",
+      "target_unit_id": "IMN-S00-P142",
+      "similarity": 0.9009,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0538,
+      "quran_density_target": 0.0686,
+      "adjusted_similarity": 0.8391,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P026",
+      "target_unit_id": "IMN-S00-P137",
+      "similarity": 0.8981,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0305,
+      "adjusted_similarity": 0.8707,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S02-P001",
+      "target_unit_id": "IMN-S00-P046",
+      "similarity": 0.8952,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0568,
+      "quran_density_target": 0.0368,
+      "adjusted_similarity": 0.8444,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P023",
+      "target_unit_id": "IMN-S00-P134",
+      "similarity": 0.8932,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1183,
+      "quran_density_target": 0.0641,
+      "adjusted_similarity": 0.7875,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P005",
+      "target_unit_id": "IMN-S00-P150",
+      "similarity": 0.893,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1708,
+      "quran_density_target": 0.0731,
+      "adjusted_similarity": 0.7405,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P020",
+      "target_unit_id": "IMN-S00-P131",
+      "similarity": 0.8922,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0129,
+      "quran_density_target": 0.0241,
+      "adjusted_similarity": 0.8706,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P000",
+      "target_unit_id": "IMN-S00-P048",
+      "similarity": 0.8884,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0237,
+      "quran_density_target": 0.0273,
+      "adjusted_similarity": 0.8641,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P004",
+      "target_unit_id": "IMN-S00-P069",
+      "similarity": 0.8883,
+      "method": "tfidf_word",
+      "quran_density_source": 0.197,
+      "quran_density_target": 0.1249,
+      "adjusted_similarity": 0.7132,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P011",
+      "target_unit_id": "IMN-S00-P098",
+      "similarity": 0.887,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0877,
+      "quran_density_target": 0.1332,
+      "adjusted_similarity": 0.7689,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P004",
+      "target_unit_id": "IMN-S00-P104",
+      "similarity": 0.8842,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0672,
+      "quran_density_target": 0.0139,
+      "adjusted_similarity": 0.8248,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P004",
+      "target_unit_id": "IMN-S00-P114",
+      "similarity": 0.8823,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3247,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5959,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P007",
+      "target_unit_id": "IMN-S00-P152",
+      "similarity": 0.8803,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1513,
+      "quran_density_target": 0.0283,
+      "adjusted_similarity": 0.7472,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P005",
+      "target_unit_id": "IMN-S00-P031",
+      "similarity": 0.8797,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0098,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.8711,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P012",
+      "target_unit_id": "IMN-S00-P013",
+      "similarity": 0.8784,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3718,
+      "quran_density_target": 0.2531,
+      "adjusted_similarity": 0.5518,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P009",
+      "target_unit_id": "IMN-S00-P096",
+      "similarity": 0.8759,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1232,
+      "quran_density_target": 0.0983,
+      "adjusted_similarity": 0.768,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P006",
+      "target_unit_id": "IMN-S00-P151",
+      "similarity": 0.874,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0387,
+      "quran_density_target": 0.0087,
+      "adjusted_similarity": 0.8401,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P028",
+      "target_unit_id": "IMN-S00-P139",
+      "similarity": 0.8708,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0635,
+      "quran_density_target": 0.0159,
+      "adjusted_similarity": 0.8155,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P001",
+      "target_unit_id": "IMN-S00-P101",
+      "similarity": 0.87,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0089,
+      "quran_density_target": 0.0092,
+      "adjusted_similarity": 0.862,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P003",
+      "target_unit_id": "IMN-S00-P103",
+      "similarity": 0.8681,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.8681,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P010",
+      "target_unit_id": "IMN-S00-P097",
+      "similarity": 0.8659,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0793,
+      "quran_density_target": 0.053,
+      "adjusted_similarity": 0.7973,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P002",
+      "target_unit_id": "IMN-S00-P067",
+      "similarity": 0.8659,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0929,
+      "quran_density_target": 0.0613,
+      "adjusted_similarity": 0.7854,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P002",
+      "target_unit_id": "IMN-S00-P028",
+      "similarity": 0.8626,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1049,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.7721,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P006",
+      "target_unit_id": "IMN-S00-P093",
+      "similarity": 0.8527,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1998,
+      "quran_density_target": 0.1638,
+      "adjusted_similarity": 0.6823,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P002",
+      "target_unit_id": "IMN-S00-P102",
+      "similarity": 0.8485,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1279,
+      "quran_density_target": 0.0826,
+      "adjusted_similarity": 0.74,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P006",
+      "target_unit_id": "IMN-S00-P032",
+      "similarity": 0.8483,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0894,
+      "quran_density_target": 0.0112,
+      "adjusted_similarity": 0.7725,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P013",
+      "target_unit_id": "IMN-S00-P014",
+      "similarity": 0.8463,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3032,
+      "quran_density_target": 0.104,
+      "adjusted_similarity": 0.5897,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P019",
+      "target_unit_id": "IMN-S00-P130",
+      "similarity": 0.8461,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.8461,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P006",
+      "target_unit_id": "IMN-S00-P071",
+      "similarity": 0.8459,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0415,
+      "quran_density_target": 0.073,
+      "adjusted_similarity": 0.7842,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P010",
+      "target_unit_id": "IMN-S00-P011",
+      "similarity": 0.8434,
+      "method": "tfidf_word",
+      "quran_density_source": 0.142,
+      "quran_density_target": 0.1739,
+      "adjusted_similarity": 0.6967,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P019",
+      "target_unit_id": "IMN-S00-P021",
+      "similarity": 0.8374,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4155,
+      "quran_density_target": 0.4103,
+      "adjusted_similarity": 0.4894,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P007",
+      "target_unit_id": "IMN-S00-P094",
+      "similarity": 0.8299,
+      "method": "tfidf_word",
+      "quran_density_source": 0.236,
+      "quran_density_target": 0.2202,
+      "adjusted_similarity": 0.634,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P003",
+      "target_unit_id": "IMN-S00-P051",
+      "similarity": 0.8271,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0378,
+      "quran_density_target": 0.0193,
+      "adjusted_similarity": 0.7958,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P004",
+      "target_unit_id": "IMN-S00-P052",
+      "similarity": 0.8267,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1653,
+      "quran_density_target": 0.0211,
+      "adjusted_similarity": 0.69,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P007",
+      "target_unit_id": "IMN-S00-P072",
+      "similarity": 0.8264,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1018,
+      "quran_density_target": 0.0267,
+      "adjusted_similarity": 0.7423,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P014",
+      "target_unit_id": "IMN-S00-P015",
+      "similarity": 0.8234,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1162,
+      "quran_density_target": 0.0212,
+      "adjusted_similarity": 0.7277,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S10-P000",
+      "target_unit_id": "IMN-S00-P141",
+      "similarity": 0.8105,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3369,
+      "quran_density_target": 0.1307,
+      "adjusted_similarity": 0.5374,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P005",
+      "target_unit_id": "IMN-S00-P092",
+      "similarity": 0.8052,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3838,
+      "quran_density_target": 0.1633,
+      "adjusted_similarity": 0.4962,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S02-P000",
+      "target_unit_id": "IMN-S00-P045",
+      "similarity": 0.7983,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1963,
+      "quran_density_target": 0.1231,
+      "adjusted_similarity": 0.6416,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P002",
+      "target_unit_id": "IMN-S00-P050",
+      "similarity": 0.7955,
+      "method": "tfidf_word",
+      "quran_density_source": 0.295,
+      "quran_density_target": 0.3627,
+      "adjusted_similarity": 0.507,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P009",
+      "target_unit_id": "IMN-S00-P109",
+      "similarity": 0.7911,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2339,
+      "quran_density_target": 0.1717,
+      "adjusted_similarity": 0.6061,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P003",
+      "target_unit_id": "IMN-S00-P113",
+      "similarity": 0.7891,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2831,
+      "quran_density_target": 0.1694,
+      "adjusted_similarity": 0.5657,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P002",
+      "target_unit_id": "IMN-S00-P112",
+      "similarity": 0.7848,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0253,
+      "quran_density_target": 0.0132,
+      "adjusted_similarity": 0.765,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P027",
+      "target_unit_id": "IMN-S00-P138",
+      "similarity": 0.7839,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1466,
+      "quran_density_target": 0.0604,
+      "adjusted_similarity": 0.669,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P020",
+      "target_unit_id": "IMN-S00-P022",
+      "similarity": 0.7822,
+      "method": "tfidf_word",
+      "quran_density_source": 0.394,
+      "quran_density_target": 0.131,
+      "adjusted_similarity": 0.474,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P005",
+      "target_unit_id": "IMN-S00-P070",
+      "similarity": 0.7773,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3028,
+      "quran_density_target": 0.1524,
+      "adjusted_similarity": 0.5419,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P003",
+      "target_unit_id": "IMN-S00-P148",
+      "similarity": 0.7709,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.241,
+      "adjusted_similarity": 0.5851,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P006",
+      "target_unit_id": "IMN-S00-P116",
+      "similarity": 0.7698,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3641,
+      "quran_density_target": 0.3438,
+      "adjusted_similarity": 0.4895,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P006",
+      "target_unit_id": "IMN-S00-P106",
+      "similarity": 0.7631,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2759,
+      "quran_density_target": 0.1866,
+      "adjusted_similarity": 0.5525,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P019",
+      "target_unit_id": "IMN-S00-P085",
+      "similarity": 0.763,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1207,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.6709,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P000",
+      "target_unit_id": "IMN-S00-P025",
+      "similarity": 0.7577,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2765,
+      "quran_density_target": 0.1099,
+      "adjusted_similarity": 0.5482,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P008",
+      "target_unit_id": "IMN-S00-P118",
+      "similarity": 0.757,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0719,
+      "quran_density_target": 0.0094,
+      "adjusted_similarity": 0.7025,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P018",
+      "target_unit_id": "IMN-S00-P129",
+      "similarity": 0.7495,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1542,
+      "quran_density_target": 0.0534,
+      "adjusted_similarity": 0.6339,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P001",
+      "target_unit_id": "IMN-S00-P111",
+      "similarity": 0.7482,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0781,
+      "quran_density_target": 0.0555,
+      "adjusted_similarity": 0.6898,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P001",
+      "target_unit_id": "IMN-S00-P066",
+      "similarity": 0.745,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2593,
+      "quran_density_target": 0.1591,
+      "adjusted_similarity": 0.5518,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S04-P000",
+      "target_unit_id": "IMN-S00-P056",
+      "similarity": 0.7388,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1553,
+      "quran_density_target": 0.1027,
+      "adjusted_similarity": 0.6241,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P004",
+      "target_unit_id": "IMN-S00-P149",
+      "similarity": 0.7353,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4121,
+      "quran_density_target": 0.1916,
+      "adjusted_similarity": 0.4323,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P000",
+      "target_unit_id": "IMN-S00-P086",
+      "similarity": 0.7325,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4668,
+      "quran_density_target": 0.3284,
+      "adjusted_similarity": 0.3906,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P009",
+      "target_unit_id": "IMN-S00-P119",
+      "similarity": 0.7306,
+      "method": "tfidf_word",
+      "quran_density_source": 0.102,
+      "quran_density_target": 0.0583,
+      "adjusted_similarity": 0.6561,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P004",
+      "target_unit_id": "IMN-S00-P091",
+      "similarity": 0.7272,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3627,
+      "quran_density_target": 0.2456,
+      "adjusted_similarity": 0.4634,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P016",
+      "target_unit_id": "IMN-S00-P082",
+      "similarity": 0.7271,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2962,
+      "quran_density_target": 0.1889,
+      "adjusted_similarity": 0.5117,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P010",
+      "target_unit_id": "IMN-S00-P155",
+      "similarity": 0.7265,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3927,
+      "quran_density_target": 0.1144,
+      "adjusted_similarity": 0.4412,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P012",
+      "target_unit_id": "IMN-S00-P099",
+      "similarity": 0.7229,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.048,
+      "adjusted_similarity": 0.6882,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S04-P001",
+      "target_unit_id": "IMN-S00-P057",
+      "similarity": 0.7223,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2676,
+      "quran_density_target": 0.1955,
+      "adjusted_similarity": 0.529,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P008",
+      "target_unit_id": "IMN-S00-P034",
+      "similarity": 0.72,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0114,
+      "quran_density_target": 0.0197,
+      "adjusted_similarity": 0.7058,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P000",
+      "target_unit_id": "IMN-S00-P100",
+      "similarity": 0.7173,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1596,
+      "quran_density_target": 0.0452,
+      "adjusted_similarity": 0.6028,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P007",
+      "target_unit_id": "IMN-S00-P117",
+      "similarity": 0.707,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1571,
+      "quran_density_target": 0.1485,
+      "adjusted_similarity": 0.5959,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P014",
+      "target_unit_id": "IMN-S00-P041",
+      "similarity": 0.7069,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0054,
+      "adjusted_similarity": 0.7031,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P007",
+      "target_unit_id": "IMN-S00-P033",
+      "similarity": 0.6992,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1456,
+      "quran_density_target": 0.0509,
+      "adjusted_similarity": 0.5973,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P000",
+      "target_unit_id": "IMN-S00-P110",
+      "similarity": 0.6964,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1294,
+      "quran_density_target": 0.017,
+      "adjusted_similarity": 0.6063,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P010",
+      "target_unit_id": "IMN-S00-P120",
+      "similarity": 0.6953,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0674,
+      "quran_density_target": 0.0816,
+      "adjusted_similarity": 0.6386,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P018",
+      "target_unit_id": "IMN-S00-P084",
+      "similarity": 0.6953,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1161,
+      "quran_density_target": 0.0122,
+      "adjusted_similarity": 0.6146,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P000",
+      "target_unit_id": "IMN-S00-P000",
+      "similarity": 0.6914,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4525,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.3785,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P002",
+      "target_unit_id": "IMN-S00-P147",
+      "similarity": 0.6894,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0169,
+      "quran_density_target": 0.0094,
+      "adjusted_similarity": 0.6777,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P003",
+      "target_unit_id": "IMN-S00-P090",
+      "similarity": 0.6879,
+      "method": "tfidf_word",
+      "quran_density_source": 0.069,
+      "quran_density_target": 0.1593,
+      "adjusted_similarity": 0.5783,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P015",
+      "target_unit_id": "IMN-S00-P081",
+      "similarity": 0.686,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1872,
+      "quran_density_target": 0.1614,
+      "adjusted_similarity": 0.5575,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P011",
+      "target_unit_id": "IMN-S00-P121",
+      "similarity": 0.6839,
+      "method": "tfidf_word",
+      "quran_density_source": 0.105,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.612,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P016",
+      "target_unit_id": "IMN-S00-P043",
+      "similarity": 0.6822,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0747,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.6312,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P013",
+      "target_unit_id": "IMN-S00-P079",
+      "similarity": 0.682,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1717,
+      "quran_density_target": 0.0812,
+      "adjusted_similarity": 0.5649,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P009",
+      "target_unit_id": "IMN-S00-P010",
+      "similarity": 0.6795,
+      "method": "tfidf_word",
+      "quran_density_source": 0.119,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5986,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S02-P002",
+      "target_unit_id": "IMN-S00-P047",
+      "similarity": 0.6782,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2922,
+      "quran_density_target": 0.228,
+      "adjusted_similarity": 0.4801,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P001",
+      "target_unit_id": "IMN-S00-P001",
+      "similarity": 0.6773,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2688,
+      "quran_density_target": 0.0309,
+      "adjusted_similarity": 0.4952,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P003",
+      "target_unit_id": "IMN-S00-P062",
+      "similarity": 0.6764,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1592,
+      "quran_density_target": 0.1713,
+      "adjusted_similarity": 0.5605,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P012",
+      "target_unit_id": "IMN-S00-P039",
+      "similarity": 0.6757,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0067,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.6711,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P001",
+      "target_unit_id": "IMN-S00-P087",
+      "similarity": 0.6694,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3583,
+      "quran_density_target": 0.2954,
+      "adjusted_similarity": 0.4296,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P009",
+      "target_unit_id": "IMN-S00-P035",
+      "similarity": 0.6682,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1061,
+      "quran_density_target": 0.0182,
+      "adjusted_similarity": 0.5972,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P001",
+      "target_unit_id": "IMN-S00-P146",
+      "similarity": 0.6636,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0074,
+      "adjusted_similarity": 0.6586,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P000",
+      "target_unit_id": "IMN-S00-P058",
+      "similarity": 0.6597,
+      "method": "tfidf_word",
+      "quran_density_source": 0.227,
+      "quran_density_target": 0.2808,
+      "adjusted_similarity": 0.4745,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P017",
+      "target_unit_id": "IMN-S00-P128",
+      "similarity": 0.6593,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2232,
+      "quran_density_target": 0.2233,
+      "adjusted_similarity": 0.5121,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P015",
+      "target_unit_id": "IMN-S00-P042",
+      "similarity": 0.6593,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0892,
+      "quran_density_target": 0.1285,
+      "adjusted_similarity": 0.5746,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P000",
+      "target_unit_id": "IMN-S00-P065",
+      "similarity": 0.6577,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0676,
+      "quran_density_target": 0.1885,
+      "adjusted_similarity": 0.5337,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P017",
+      "target_unit_id": "IMN-S00-P018",
+      "similarity": 0.6575,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3861,
+      "quran_density_target": 0.305,
+      "adjusted_similarity": 0.4036,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P017",
+      "target_unit_id": "IMN-S00-P083",
+      "similarity": 0.6548,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2979,
+      "quran_density_target": 0.1023,
+      "adjusted_similarity": 0.4597,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P009",
+      "target_unit_id": "IMN-S00-P074",
+      "similarity": 0.6546,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3142,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.4489,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P001",
+      "target_unit_id": "IMN-S00-P059",
+      "similarity": 0.6532,
+      "method": "tfidf_word",
+      "quran_density_source": 0.342,
+      "quran_density_target": 0.1364,
+      "adjusted_similarity": 0.4298,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P008",
+      "target_unit_id": "IMN-S00-P073",
+      "similarity": 0.6531,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1028,
+      "quran_density_target": 0.1669,
+      "adjusted_similarity": 0.5441,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P014",
+      "target_unit_id": "IMN-S00-P080",
+      "similarity": 0.6484,
+      "method": "tfidf_word",
+      "quran_density_source": 0.233,
+      "quran_density_target": 0.2561,
+      "adjusted_similarity": 0.4824,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P004",
+      "target_unit_id": "IMN-S00-P063",
+      "similarity": 0.6438,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2525,
+      "quran_density_target": 0.2688,
+      "adjusted_similarity": 0.4708,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S10-P003",
+      "target_unit_id": "IMN-S00-P144",
+      "similarity": 0.6425,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0738,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5951,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P022",
+      "target_unit_id": "IMN-S00-P024",
+      "similarity": 0.6409,
+      "method": "tfidf_word",
+      "quran_density_source": 0.5765,
+      "quran_density_target": 0.526,
+      "adjusted_similarity": 0.2714,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P011",
+      "target_unit_id": "IMN-S00-P076",
+      "similarity": 0.6369,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0511,
+      "quran_density_target": 0.1963,
+      "adjusted_similarity": 0.5119,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P018",
+      "target_unit_id": "IMN-S00-P020",
+      "similarity": 0.6331,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1969,
+      "quran_density_target": 0.094,
+      "adjusted_similarity": 0.5084,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P010",
+      "target_unit_id": "IMN-S00-P075",
+      "similarity": 0.6323,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4043,
+      "quran_density_target": 0.2032,
+      "adjusted_similarity": 0.3767,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P013",
+      "target_unit_id": "IMN-S00-P040",
+      "similarity": 0.6197,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0306,
+      "quran_density_target": 0.0218,
+      "adjusted_similarity": 0.6008,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P002",
+      "target_unit_id": "IMN-S00-P061",
+      "similarity": 0.6123,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2643,
+      "quran_density_target": 0.1254,
+      "adjusted_similarity": 0.4505,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P016",
+      "target_unit_id": "IMN-S00-P127",
+      "similarity": 0.6107,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1651,
+      "quran_density_target": 0.0577,
+      "adjusted_similarity": 0.5099,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P003",
+      "target_unit_id": "IMN-S00-P003",
+      "similarity": 0.609,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3584,
+      "quran_density_target": 0.1839,
+      "adjusted_similarity": 0.3907,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P016",
+      "target_unit_id": "IMN-S00-P017",
+      "similarity": 0.6076,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3254,
+      "quran_density_target": 0.1879,
+      "adjusted_similarity": 0.4099,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P006",
+      "target_unit_id": "IMN-S00-P055",
+      "similarity": 0.6075,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3658,
+      "quran_density_target": 0.286,
+      "adjusted_similarity": 0.3853,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P005",
+      "target_unit_id": "IMN-S00-P053",
+      "similarity": 0.6063,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4053,
+      "quran_density_target": 0.3434,
+      "adjusted_similarity": 0.3606,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P005",
+      "target_unit_id": "IMN-S00-P005",
+      "similarity": 0.6037,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2018,
+      "quran_density_target": 0.2008,
+      "adjusted_similarity": 0.4818,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P007",
+      "target_unit_id": "IMN-S00-P008",
+      "similarity": 0.6008,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2631,
+      "quran_density_target": 0.1086,
+      "adjusted_similarity": 0.4428,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P008",
+      "target_unit_id": "IMN-S00-P009",
+      "similarity": 0.5964,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2149,
+      "quran_density_target": 0.0288,
+      "adjusted_similarity": 0.4682,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P001",
+      "target_unit_id": "IMN-S00-P026",
+      "similarity": 0.5952,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2741,
+      "quran_density_target": 0.0928,
+      "adjusted_similarity": 0.432,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P012",
+      "target_unit_id": "IMN-S00-P077",
+      "similarity": 0.5944,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1501,
+      "quran_density_target": 0.0293,
+      "adjusted_similarity": 0.5052,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P004",
+      "target_unit_id": "IMN-S00-P004",
+      "similarity": 0.5939,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3549,
+      "quran_density_target": 0.3411,
+      "adjusted_similarity": 0.3832,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P015",
+      "target_unit_id": "IMN-S00-P125",
+      "similarity": 0.5889,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1018,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.529,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P011",
+      "target_unit_id": "IMN-S00-P038",
+      "similarity": 0.588,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0176,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5777,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P014",
+      "target_unit_id": "IMN-S00-P124",
+      "similarity": 0.581,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1113,
+      "quran_density_target": 0.0133,
+      "adjusted_similarity": 0.5163,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P000",
+      "target_unit_id": "IMN-S00-P145",
+      "similarity": 0.58,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.58,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P012",
+      "target_unit_id": "IMN-S00-P122",
+      "similarity": 0.568,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0628,
+      "quran_density_target": 0.163,
+      "adjusted_similarity": 0.4754,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P021",
+      "target_unit_id": "IMN-S00-P023",
+      "similarity": 0.56,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3399,
+      "quran_density_target": 0.2498,
+      "adjusted_similarity": 0.3697,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P018",
+      "target_unit_id": "IMN-S00-P019",
+      "similarity": 0.559,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1969,
+      "quran_density_target": 0.2501,
+      "adjusted_similarity": 0.4192,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P006",
+      "target_unit_id": "IMN-S00-P007",
+      "similarity": 0.5583,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2674,
+      "quran_density_target": 0.3166,
+      "adjusted_similarity": 0.3816,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P012",
+      "target_unit_id": "IMN-S00-P123",
+      "similarity": 0.5497,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0628,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5152,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P013",
+      "target_unit_id": "IMN-S00-P124",
+      "similarity": 0.5419,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0133,
+      "adjusted_similarity": 0.5347,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P010",
+      "target_unit_id": "IMN-S00-P037",
+      "similarity": 0.5341,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2379,
+      "quran_density_target": 0.1149,
+      "adjusted_similarity": 0.4071,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P013",
+      "target_unit_id": "IMN-S00-P123",
+      "similarity": 0.5317,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5317,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P005",
+      "target_unit_id": "IMN-S00-P064",
+      "similarity": 0.5258,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2565,
+      "quran_density_target": 0.0432,
+      "adjusted_similarity": 0.3909,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P007",
+      "target_unit_id": "IMN-S00-P055",
+      "similarity": 0.5254,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2309,
+      "quran_density_target": 0.286,
+      "adjusted_similarity": 0.3751,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P001",
+      "target_unit_id": "IMN-S00-P027",
+      "similarity": 0.5253,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2741,
+      "quran_density_target": 0.315,
+      "adjusted_similarity": 0.3598,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P000",
+      "target_unit_id": "IMN-S00-P144",
+      "similarity": 0.5175,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.5175,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P002",
+      "target_unit_id": "IMN-S00-P088",
+      "similarity": 0.5162,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4657,
+      "quran_density_target": 0.0492,
+      "adjusted_similarity": 0.2758,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P000",
+      "target_unit_id": "IMN-S00-P064",
+      "similarity": 0.5117,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0676,
+      "quran_density_target": 0.0432,
+      "adjusted_similarity": 0.4771,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P011",
+      "target_unit_id": "IMN-S00-P077",
+      "similarity": 0.5074,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0511,
+      "quran_density_target": 0.0293,
+      "adjusted_similarity": 0.4815,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P005",
+      "target_unit_id": "IMN-S00-P006",
+      "similarity": 0.5017,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2018,
+      "quran_density_target": 0.1216,
+      "adjusted_similarity": 0.4005,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P011",
+      "target_unit_id": "IMN-S00-P037",
+      "similarity": 0.4984,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0176,
+      "quran_density_target": 0.1149,
+      "adjusted_similarity": 0.4411,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P015",
+      "target_unit_id": "IMN-S00-P126",
+      "similarity": 0.496,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1018,
+      "quran_density_target": 0.1489,
+      "adjusted_similarity": 0.4221,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P015",
+      "target_unit_id": "IMN-S00-P017",
+      "similarity": 0.4894,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4492,
+      "quran_density_target": 0.1879,
+      "adjusted_similarity": 0.2696,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P016",
+      "target_unit_id": "IMN-S00-P126",
+      "similarity": 0.4851,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1651,
+      "quran_density_target": 0.1489,
+      "adjusted_similarity": 0.405,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P006",
+      "target_unit_id": "IMN-S00-P006",
+      "similarity": 0.4795,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2674,
+      "quran_density_target": 0.1216,
+      "adjusted_similarity": 0.3513,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P010",
+      "target_unit_id": "IMN-S00-P036",
+      "similarity": 0.4765,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2379,
+      "quran_density_target": 0.1792,
+      "adjusted_similarity": 0.3632,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P001",
+      "target_unit_id": "IMN-S00-P145",
+      "similarity": 0.4702,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.4702,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P005",
+      "target_unit_id": "IMN-S00-P054",
+      "similarity": 0.4677,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4053,
+      "quran_density_target": 0.4189,
+      "adjusted_similarity": 0.2718,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P017",
+      "target_unit_id": "IMN-S00-P043",
+      "similarity": 0.4647,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2344,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.3557,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P014",
+      "target_unit_id": "IMN-S00-P040",
+      "similarity": 0.4586,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0218,
+      "adjusted_similarity": 0.4486,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P014",
+      "target_unit_id": "IMN-S00-P125",
+      "similarity": 0.4525,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1113,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.4022,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P003",
+      "target_unit_id": "IMN-S00-P089",
+      "similarity": 0.4503,
+      "method": "tfidf_word",
+      "quran_density_source": 0.069,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.4192,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P017",
+      "target_unit_id": "IMN-S00-P044",
+      "similarity": 0.4497,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2344,
+      "quran_density_target": 0.1295,
+      "adjusted_similarity": 0.3443,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P021",
+      "target_unit_id": "IMN-S00-P022",
+      "similarity": 0.4443,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3399,
+      "quran_density_target": 0.131,
+      "adjusted_similarity": 0.2933,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P012",
+      "target_unit_id": "IMN-S00-P078",
+      "similarity": 0.4425,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1501,
+      "quran_density_target": 0.1324,
+      "adjusted_similarity": 0.3761,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P008",
+      "target_unit_id": "IMN-S00-P074",
+      "similarity": 0.4398,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1028,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.3945,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P006",
+      "target_unit_id": "IMN-S00-P054",
+      "similarity": 0.4389,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3658,
+      "quran_density_target": 0.4189,
+      "adjusted_similarity": 0.255,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P013",
+      "target_unit_id": "IMN-S00-P078",
+      "similarity": 0.4301,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1717,
+      "quran_density_target": 0.1324,
+      "adjusted_similarity": 0.3563,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P002",
+      "target_unit_id": "IMN-S00-P060",
+      "similarity": 0.4293,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2643,
+      "quran_density_target": 0.3765,
+      "adjusted_similarity": 0.2676,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P015",
+      "target_unit_id": "IMN-S00-P016",
+      "similarity": 0.4281,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4492,
+      "quran_density_target": 0.3725,
+      "adjusted_similarity": 0.2358,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P009",
+      "target_unit_id": "IMN-S00-P036",
+      "similarity": 0.4255,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1061,
+      "quran_density_target": 0.1792,
+      "adjusted_similarity": 0.3493,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P003",
+      "target_unit_id": "IMN-S00-P147",
+      "similarity": 0.4116,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.0094,
+      "adjusted_similarity": 0.4077,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P002",
+      "target_unit_id": "IMN-S00-P003",
+      "similarity": 0.4092,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4981,
+      "quran_density_target": 0.1839,
+      "adjusted_similarity": 0.2054,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P023",
+      "target_unit_id": "IMN-S00-P025",
+      "similarity": 0.4068,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4132,
+      "quran_density_target": 0.1099,
+      "adjusted_similarity": 0.2387,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P012",
+      "target_unit_id": "IMN-S00-P038",
+      "similarity": 0.4059,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0067,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.4031,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P005",
+      "target_unit_id": "IMN-S00-P063",
+      "similarity": 0.4032,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2565,
+      "quran_density_target": 0.2688,
+      "adjusted_similarity": 0.2948,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P018",
+      "target_unit_id": "IMN-S00-P083",
+      "similarity": 0.4007,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1161,
+      "quran_density_target": 0.1023,
+      "adjusted_similarity": 0.3542,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P008",
+      "target_unit_id": "IMN-S00-P008",
+      "similarity": 0.3994,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2149,
+      "quran_density_target": 0.1086,
+      "adjusted_similarity": 0.3135,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P015",
+      "target_unit_id": "IMN-S00-P080",
+      "similarity": 0.3942,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1872,
+      "quran_density_target": 0.2561,
+      "adjusted_similarity": 0.2933,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P014",
+      "target_unit_id": "IMN-S00-P079",
+      "similarity": 0.3941,
+      "method": "tfidf_word",
+      "quran_density_source": 0.233,
+      "quran_density_target": 0.0812,
+      "adjusted_similarity": 0.3023,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P013",
+      "target_unit_id": "IMN-S00-P039",
+      "similarity": 0.3926,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0306,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.3806,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P007",
+      "target_unit_id": "IMN-S00-P007",
+      "similarity": 0.385,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2631,
+      "quran_density_target": 0.3166,
+      "adjusted_similarity": 0.2631,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S08-P000",
+      "target_unit_id": "IMN-S00-P099",
+      "similarity": 0.3849,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1596,
+      "quran_density_target": 0.048,
+      "adjusted_similarity": 0.3235,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P000",
+      "target_unit_id": "IMN-S00-P059",
+      "similarity": 0.3846,
+      "method": "tfidf_word",
+      "quran_density_source": 0.227,
+      "quran_density_target": 0.1364,
+      "adjusted_similarity": 0.2973,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P003",
+      "target_unit_id": "IMN-S00-P004",
+      "similarity": 0.3841,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3584,
+      "quran_density_target": 0.3411,
+      "adjusted_similarity": 0.2464,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P008",
+      "target_unit_id": "IMN-S00-P035",
+      "similarity": 0.3823,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0114,
+      "quran_density_target": 0.0182,
+      "adjusted_similarity": 0.3753,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P022",
+      "target_unit_id": "IMN-S00-P023",
+      "similarity": 0.3813,
+      "method": "tfidf_word",
+      "quran_density_source": 0.5765,
+      "quran_density_target": 0.2498,
+      "adjusted_similarity": 0.1615,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P011",
+      "target_unit_id": "IMN-S00-P122",
+      "similarity": 0.3807,
+      "method": "tfidf_word",
+      "quran_density_source": 0.105,
+      "quran_density_target": 0.163,
+      "adjusted_similarity": 0.3186,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P001",
+      "target_unit_id": "IMN-S00-P060",
+      "similarity": 0.3807,
+      "method": "tfidf_word",
+      "quran_density_source": 0.342,
+      "quran_density_target": 0.3765,
+      "adjusted_similarity": 0.2373,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P017",
+      "target_unit_id": "IMN-S00-P127",
+      "similarity": 0.377,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2232,
+      "quran_density_target": 0.0577,
+      "adjusted_similarity": 0.2928,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P002",
+      "target_unit_id": "IMN-S00-P089",
+      "similarity": 0.3768,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4657,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.2013,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P004",
+      "target_unit_id": "IMN-S00-P005",
+      "similarity": 0.3748,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3549,
+      "quran_density_target": 0.2008,
+      "adjusted_similarity": 0.2418,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P016",
+      "target_unit_id": "IMN-S00-P042",
+      "similarity": 0.3743,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0747,
+      "quran_density_target": 0.1285,
+      "adjusted_similarity": 0.3262,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P004",
+      "target_unit_id": "IMN-S00-P062",
+      "similarity": 0.3734,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2525,
+      "quran_density_target": 0.1713,
+      "adjusted_similarity": 0.2791,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P002",
+      "target_unit_id": "IMN-S00-P002",
+      "similarity": 0.3715,
+      "method": "tfidf_word",
+      "quran_density_source": 0.4981,
+      "quran_density_target": 0.111,
+      "adjusted_similarity": 0.1865,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S11-P002",
+      "target_unit_id": "IMN-S00-P146",
+      "similarity": 0.3667,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0169,
+      "quran_density_target": 0.0074,
+      "adjusted_similarity": 0.3606,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S05-P003",
+      "target_unit_id": "IMN-S00-P061",
+      "similarity": 0.3662,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1592,
+      "quran_density_target": 0.1254,
+      "adjusted_similarity": 0.3079,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P000",
+      "target_unit_id": "IMN-S00-P026",
+      "similarity": 0.3652,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2765,
+      "quran_density_target": 0.0928,
+      "adjusted_similarity": 0.2642,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P009",
+      "target_unit_id": "IMN-S00-P009",
+      "similarity": 0.3643,
+      "method": "tfidf_word",
+      "quran_density_source": 0.119,
+      "quran_density_target": 0.0288,
+      "adjusted_similarity": 0.3209,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P010",
+      "target_unit_id": "IMN-S00-P121",
+      "similarity": 0.3568,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0674,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.3328,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P003",
+      "target_unit_id": "IMN-S00-P052",
+      "similarity": 0.3547,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0378,
+      "quran_density_target": 0.0211,
+      "adjusted_similarity": 0.3413,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S02-P000",
+      "target_unit_id": "IMN-S00-P044",
+      "similarity": 0.3539,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1963,
+      "quran_density_target": 0.1295,
+      "adjusted_similarity": 0.2844,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P006",
+      "target_unit_id": "IMN-S00-P117",
+      "similarity": 0.3537,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3641,
+      "quran_density_target": 0.1485,
+      "adjusted_similarity": 0.2249,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P015",
+      "target_unit_id": "IMN-S00-P041",
+      "similarity": 0.3501,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0892,
+      "quran_density_target": 0.0054,
+      "adjusted_similarity": 0.3189,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P009",
+      "target_unit_id": "IMN-S00-P075",
+      "similarity": 0.3474,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3142,
+      "quran_density_target": 0.2032,
+      "adjusted_similarity": 0.2383,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S01-P007",
+      "target_unit_id": "IMN-S00-P034",
+      "similarity": 0.3471,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1456,
+      "quran_density_target": 0.0197,
+      "adjusted_similarity": 0.2966,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P019",
+      "target_unit_id": "IMN-S00-P084",
+      "similarity": 0.3428,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1207,
+      "quran_density_target": 0.0122,
+      "adjusted_similarity": 0.3014,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P016",
+      "target_unit_id": "IMN-S00-P018",
+      "similarity": 0.3413,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3254,
+      "quran_density_target": 0.305,
+      "adjusted_similarity": 0.2303,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S06-P020",
+      "target_unit_id": "IMN-S00-P086",
+      "similarity": 0.3377,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0,
+      "quran_density_target": 0.3284,
+      "adjusted_similarity": 0.2268,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P001",
+      "target_unit_id": "IMN-S00-P088",
+      "similarity": 0.3244,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3583,
+      "quran_density_target": 0.0492,
+      "adjusted_similarity": 0.2082,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P010",
+      "target_unit_id": "IMN-S00-P010",
+      "similarity": 0.3237,
+      "method": "tfidf_word",
+      "quran_density_source": 0.142,
+      "quran_density_target": 0.0,
+      "adjusted_similarity": 0.2777,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P018",
+      "target_unit_id": "IMN-S00-P128",
+      "similarity": 0.3212,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1542,
+      "quran_density_target": 0.2233,
+      "adjusted_similarity": 0.2495,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P002",
+      "target_unit_id": "IMN-S00-P111",
+      "similarity": 0.3171,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0253,
+      "quran_density_target": 0.0555,
+      "adjusted_similarity": 0.2995,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S04-P000",
+      "target_unit_id": "IMN-S00-P057",
+      "similarity": 0.3162,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1553,
+      "quran_density_target": 0.1955,
+      "adjusted_similarity": 0.2544,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P000",
+      "target_unit_id": "IMN-S00-P109",
+      "similarity": 0.3145,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1294,
+      "quran_density_target": 0.1717,
+      "adjusted_similarity": 0.2605,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P007",
+      "target_unit_id": "IMN-S00-P118",
+      "similarity": 0.3143,
+      "method": "tfidf_word",
+      "quran_density_source": 0.1571,
+      "quran_density_target": 0.0094,
+      "adjusted_similarity": 0.265,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P001",
+      "target_unit_id": "IMN-S00-P110",
+      "similarity": 0.3135,
+      "method": "tfidf_word",
+      "quran_density_source": 0.0781,
+      "quran_density_target": 0.017,
+      "adjusted_similarity": 0.289,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S07-P004",
+      "target_unit_id": "IMN-S00-P090",
+      "similarity": 0.3131,
+      "method": "tfidf_word",
+      "quran_density_source": 0.3627,
+      "quran_density_target": 0.1593,
+      "adjusted_similarity": 0.1995,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S03-P007",
+      "target_unit_id": "IMN-S00-P056",
+      "similarity": 0.3097,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2309,
+      "quran_density_target": 0.1027,
+      "adjusted_similarity": 0.2382,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S09-P009",
+      "target_unit_id": "IMN-S00-P120",
+      "similarity": 0.3084,
+      "method": "tfidf_word",
+      "quran_density_source": 0.102,
+      "quran_density_target": 0.0816,
+      "adjusted_similarity": 0.2769,
+      "notes": ""
+    },
+    {
+      "source_unit_id": "MF-V07-S00-P001",
+      "target_unit_id": "IMN-S00-P002",
+      "similarity": 0.3083,
+      "method": "tfidf_word",
+      "quran_density_source": 0.2688,
+      "quran_density_target": 0.111,
+      "adjusted_similarity": 0.2254,
+      "notes": ""
+    }
+  ]
+}
