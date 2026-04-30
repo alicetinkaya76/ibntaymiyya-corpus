@@ -1,0 +1,67 @@
+# === Veri (büyük/türetilmiş, git'e koyulmaz) ===
+data/raw/
+data/canonical/*.json
+data/canonical/*.parquet
+data/derived/
+data/annotations/*.csv
+data/annotations/*.jsonl
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Node / Astro ===
+node_modules/
+dist/
+.astro/
+.next/
+*.log
+npm-debug.log*
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# === macOS ===
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# === Local DB / index dosyaları ===
+*.db
+*.sqlite
+*.sqlite3
+qdrant_storage/
+meilisearch_data/
+neo4j_data/
+
+# === Yerel modeller ===
+models/
+*.bin
+*.gguf
+*.safetensors
+
+# === API anahtarları ===
+.env
+.env.local
+.env.*.local
+secrets/
