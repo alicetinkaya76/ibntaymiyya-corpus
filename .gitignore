@@ -69,3 +69,7 @@ secrets/
 # === Türetilmiş canonical çıktıları (parser ile her zaman yeniden üretilebilir) ===
 data/canonical/*.zip
 data/canonical/*.tar.gz
+
+# macOS resource fork dosyaları (ExFAT/FAT32 disklerde otomatik oluşur)
+**/._*
+.DS_Store
