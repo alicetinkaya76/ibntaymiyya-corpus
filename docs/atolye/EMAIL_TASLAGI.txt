@@ -1,0 +1,46 @@
+Konu: İbn Teymiyye paralel pasaj doğrulaması · 26 örnekli atölye dosyası
+
+Sevgili Hüseyin Hocam,
+
+İbn Teymiyye Tutum Haritalama projemizin H2 (Mecmû V07 İbn Kāsım edisyonu
+↔ Standalone Iman Albani edisyonu) paralel pasaj eşleştirmelerinin manuel
+doğrulaması için sizin uzman değerlendirmenizi rica ediyoruz.
+
+Ekteki Excel dosyası 4 sayfadan oluşuyor:
+
+  1. Talimatlar       — Protokol, 5 etiket sınıfı tanımı, örnekler
+  2. Etiketleme       — 26 pair, sizin çalışacağınız sayfa
+  3. (Gizli sayfa)    — Atölye sonrası tahkim için
+  4. Özet             — İlerlemeniz canlı güncellenir
+
+YAPILACAK İŞ:
+
+  • "Etiketleme" sekmesindeki 26 pair'i sırayla inceleyin.
+  • Her pair için sol kolonda kaynak (Mecmû V07), sağ kolonda hedef
+    (Standalone Iman) metni yan yana var.
+  • "ETİKET" kolonuna tıklayın; açılır listeden 5 sınıftan birini seçin:
+      EXACT    — Birebir tekrar
+      EDITED   — Düzenlenmiş tekrar (Albani'nin editöryel müdahalesi)
+      EXCERPT  — Hedef, kaynağın bir kısmı (özet/alıntı)
+      OVERLAP  — Aynı konu, farklı argüman (algoritma yanılması olabilir)
+      NOISE    — Yanlış eşleşme
+  • "Notlar" kolonuna gerekçenizi yazın (özellikle OVERLAP / NOISE için).
+  • Tartışmalı pair'leri "TARTIŞMA" kelimesiyle işaretleyin; sonra
+    birlikte değerlendiririz.
+
+TAHMİNİ SÜRE: 90–120 dakika. Pair başı 3–5 dk.
+
+KAYIT: Excel her tuş vuruşunda otomatik kaydeder. Bitince dosyayı
+kaydedip bana iletmeniz yeterli.
+
+ÖNEMLİ NOT: Dosyada "Claude_Baseline_GIZLI" adlı bir sayfa GİZLİ. Bu
+LLM ön-tahminlerini içeriyor; sizin BAĞIMSIZ etiketlerinizi alabilmek
+için atölye sırasında görünmez yapıldı. Sizin etiketleriniz alındıktan
+sonra inter-rater agreement (Cohen κ) hesabı için karşılaştıracağız —
+bu paper'da raporlanacak bir bulgu olacak.
+
+Ben ekrana bağlı olacağım; herhangi bir soru olursa anlık iletişim
+kurabiliriz. İhtiyaç hâlinde Zoom/Teams ile ekran paylaşabiliriz.
+
+İyi çalışmalar dileğiyle,
+Ali
