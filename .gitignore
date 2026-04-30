@@ -65,3 +65,7 @@ models/
 .env.local
 .env.*.local
 secrets/
+
+# === Türetilmiş canonical çıktıları (parser ile her zaman yeniden üretilebilir) ===
+data/canonical/*.zip
+data/canonical/*.tar.gz
